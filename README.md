@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on software development<br>👯 I’m looking to collaborate on software + IoT projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning B.TECH Computer science and engineering <br>💬 Ask me about Technical<br>⚡ Fun fact
+🔭 Currently working on: Software Development & problem-solving
+👯 Open to collaborate on: Innovative Software + IoT projects
+🤝 Looking for help with: Building scalable, real-world tech solutions
+🌱 Currently learning: Bachelor’s Degree in Computer Science & Engineering
+💬 Ask me about: Programming, Software Development, IoT, and Tech Ideas
+⚡ Fun fact: I turn coffee ☕ into code 💻 and bugs 🐞 into features 😎
 
 
 ## 🌐 Socials:
