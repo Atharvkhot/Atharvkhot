@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 Currently working on: Software Development & problem-solving 👯 Open to collaborate on: Innovative Software + IoT projects 🤝 Looking for help with: Building scalable, real-world tech solutions 🌱 Currently learning: Bachelor’s Degree in Computer Science & Engineering 💬 Ask me about: Programming, Software Development, IoT, and Tech Ideas ⚡ Fun fact: I turn coffee ☕ into code 💻 and bugs 🐞 into features 😎
+🔭 Currently working on: Software Development & problem-solving 
+👯 Open to collaborate on: Innovative Software + IoT projects 
+🤝 Looking for help with: Building scalable, real-world tech solutions 
+🌱 Currently learning: Bachelor’s Degree in Computer Science & Engineering 
+💬 Ask me about: Programming, Software Development, IoT, and Tech Ideas 
+⚡ Fun fact: I turn coffee ☕ into code 💻 and bugs 🐞 into features 😎
 
 
 ## 🌐 Socials:
